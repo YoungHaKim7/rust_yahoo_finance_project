@@ -66,3 +66,17 @@ Apple's quotes in January: [
 ]
 
 ```
+
+
+# Result 
+
+```
+All tickers found while searching for 'Apple':
+AAPL
+APLE
+AAPL.NE
+APC.DE
+AAPL.MX
+AAPL.BA
+APC.MU
+```
